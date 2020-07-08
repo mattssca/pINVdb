@@ -12,3 +12,10 @@ Coordinates are avialble as xls spreadsheet and bed format. For bed formatted ca
 ## Characteristics
 
 ![pie](https://github.com/mattssca/pINVdb/blob/master/figs/ppidb.pie.png)
+![violin](https://github.com/mattssca/pINVdb/blob/master/figs/db.all.violine.size.png)
+![allcount](https://github.com/mattssca/pINVdb/blob/master/figs/db.all.count.png)
+![allbin](https://github.com/mattssca/pINVdb/blob/master/figs/db.bin.size.png)
+![chrdist](https://github.com/mattssca/pINVdb/blob/master/figs/db.chrdist.png)
+![intgene](https://github.com/mattssca/pINVdb/blob/master/figs/db.int.gene.png)
+![fracov](https://github.com/mattssca/pINVdb/blob/master/figs/overlaps.db.fraction.png)
+![sumtab](https://github.com/mattssca/pINVdb/blob/master/figs/summary.polymorphic.inv.GRCh38.png)
