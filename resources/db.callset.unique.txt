@@ -1,0 +1,12 @@
+DGV	overlaps	1022
+DGV	unique	1054
+dbVar	overlaps	4030
+dbVar	unique	437
+invFest	overlaps	309
+invFest	unique	796
+Chaisson	overlaps	16
+Chaisson	unique	289
+Sanders	overlaps	4
+Sanders	unique	95
+TIRs	overlaps	539
+TIRs	unique	196

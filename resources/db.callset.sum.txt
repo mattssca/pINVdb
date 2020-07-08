@@ -1,0 +1,6 @@
+Chaisson	305
+dbVar	4467
+DGV	2076
+invFest	1105
+Sanders	99
+TIRs	735

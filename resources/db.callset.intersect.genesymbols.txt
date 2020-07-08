@@ -1,0 +1,14 @@
+All	intersecting	3501
+All	non-intersecting	5134
+DGV	intersecting	692
+DGV	non-intersecting	1383
+dbVar	intersecting	1905
+dbVar	non-intersecting	2561
+invFest	intersecting	423
+invFest	non-intersecting	681
+Chaisson	intersecting	106
+Chaisson	non-intersecting	198
+Sanders	intersecting	57
+Sanders	non-intersecting	41
+TIRs	intersecting	317
+TIRs	non-intersecting	426
